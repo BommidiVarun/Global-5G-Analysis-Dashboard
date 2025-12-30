@@ -1,7 +1,5 @@
 # Global-5G-Analysis-Dashboard
-Created Power BI dashboard by analyzing global 5G revenue, coverage &amp; adoption
-
-# Global 5G Analysis Dashboard
+Created Power BI dashboard by analyzing global 5G revenue, coverage & adoption
 
 # Overview
 This Power BI project analyzes global 5G adoption, revenue, subscriber growth, and coverage across regions.
@@ -22,6 +20,3 @@ This Power BI project analyzes global 5G adoption, revenue, subscriber growth, a
 - North America leads in revenue
 - Asia-Pacific shows fast adoption
 - Premium models generate higher revenue
-
-## 📷 Dashboard Preview
-![Dashboard](Global_5G_Dashboard.png)
